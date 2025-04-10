@@ -1,5 +1,7 @@
 ## Hi there 👋
 My Name is Saransh Gupta 
+<br>
+I am 2nd Year Btech Ai student
 
 <!--
 **Saranshg14/Saranshg14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
