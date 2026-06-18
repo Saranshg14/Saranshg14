@@ -56,7 +56,6 @@ Automated resume screening system using LLMs and semantic matching.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saranshg14&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saranshg14&layout=compact)
 
